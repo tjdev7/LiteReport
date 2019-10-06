@@ -1,0 +1,28 @@
+{
+  "name": "litereport",
+  "version": "0.1.0",
+  "description": "Automatic Lighthouse reports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "report": "lighthouse http://localhost:8080/--output json --output html --output-path ryr-reports/.ryr-report.json --view | lighthouse-ci http://localhost:8080/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toughee/Litereport.git"
+  },
+  "keywords": [
+    "Lighthouse",
+    "tests",
+    "unit",
+    "tests",
+    "website",
+    "analytics"
+  ],
+  "author": "Mario Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toughee/Litereport/issues"
+  },
+  "homepage": "https://github.com/Toughee/Litereport#readme"
+}
