@@ -1,9 +1,10 @@
 {
   "name": "litereport",
   "version": "0.1.0",
-  "description": "Automatic Lighthouse reports",
+  "description": "Automatic Lighthouse reports in localhost projects",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "report": "lighthouse http://localhost:8080/--output json --output html --output-path ryr-reports/.ryr-report.json --view | lighthouse-ci http://localhost:8080/"
   },
@@ -24,5 +25,13 @@
   "bugs": {
     "url": "https://github.com/Toughee/Litereport/issues"
   },
-  "homepage": "https://github.com/Toughee/Litereport#readme"
+  "homepage": "https://github.com/Toughee/Litereport#readme",
+  "dependencies": {
+    "lighthouse": "^5.5.0",
+    "lighthouse-ci": "^1.10.0",
+    "node": "^12.11.1",
+    "server": "^1.0.19",
+    "start": "^5.1.0"
+  },
+  "devDependencies": {}
 }
