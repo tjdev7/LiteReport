@@ -2,7 +2,7 @@
 
 ![Litereport logo](/img/litereport-icon.png)
 
-# Litereport
+# Litereport (W.I.P)
 
 Lighthouse reports for localhost ports
 
@@ -19,11 +19,16 @@ Lighthouse reports for localhost ports
 
 ### How to use in two steps
 
-- Intall via npm 'npm i litereport'
-- Type in 'npm run litereport' to the terminal
+1. Install via npm ```npm i litereport```
+2. Type in```npm run litereport``` to the terminal
 
 
 #### Tools used
 
 - [Lighthouse](https://www.npmjs.com/package/lighthouse)
 - [Lighthouse-ci](https://www.npmjs.com/package/lighthouse-ci)
+
+##### Current objectives
+
+- [] Scan for active localhost projects by itself
+- [] Add a pdf export option
