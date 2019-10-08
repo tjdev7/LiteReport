@@ -1,21 +1,23 @@
+![LiteReport logo](/img/litereport-icon.png)
 
+# LiteReport
 
-![Litereport logo](/img/litereport-icon.png)
-
-# Litereport (W.I.P)
-
-Lighthouse reports for localhost ports
+Lighthouse reports for localhost ports. Currently runs tests on 3000 port.
 
 ## Features
 
-- Automatic: makes multiple reports with only one command prompt
+- Automatic: makes multiple Lighthouse reports with only one command prompt
 - Saves everything in one organized folder
+- Takes around 25-30 seconds to run every single test, depending on your page content
+- Works offline. No internet connection needed to run local tests
 
-## Output types
+## Output results
 
 - Html
 - JSON
+- CSV
 - Inline Terminal text
+- Pop up page giving you the entire results
 
 ### How to use in two steps
 
@@ -30,5 +32,6 @@ Lighthouse reports for localhost ports
 
 ##### Current objectives
 
-- [] Scan for active localhost projects by itself
-- [] Add a pdf export option
+- [ ] Add a landing page for project
+- [ ] Scan for active localhost projects by itself
+- [ ] Add pdf output inside the reports
