@@ -1,12 +1,12 @@
 {
   "name": "LiteReport",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Automatic Lighthouse reports in localhost projects",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "litereport": "lighthouse http://localhost:3000/ --output json --output csv --output html --output-path reports/Litereport.html --view | lighthouse-ci http://localhost:3000/"
+    "litereport": "lighthouse http://localhost:3000/ --output json --output csv --output html --output-path reports/Lite.html --view | lighthouse-ci http://localhost:3000/"
   },
   "repository": {
     "type": "git",
