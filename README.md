@@ -26,6 +26,7 @@ Lighthouse reports for localhost ports. Currently working on final tests for app
 
 ##### Current objectives
 
-- [ ] Add a landing page for project
+- [x] Add a landing page for project
 - [ ] Have Litereport scan for the active localhost port by itself
 - [ ] Add pdf output inside the reports
+- [ ] Finish adding React to the project
