@@ -1,0 +1,30 @@
+body {
+	background-color: #EEEEEE;
+}
+section {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	text-align: right;
+	padding: 0px 10px 5px 0px;
+}
+span {
+	background-color: #BDBDBD;
+	padding: 5px; 
+}
+h1, p, h6 {
+	color: #2962F9;
+}
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+} 
+h6 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	margin: -10px 0px -10px 0px; 
+}
+p {
+	font-family: 'Roboto Mono', monospace;
+	font-size: 14px;			
+}
