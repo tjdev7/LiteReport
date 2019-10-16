@@ -1,7 +1,7 @@
 
 # Contributing:
 
-PR requests and issues are always welcomed
+Pull requests and creating new issues for the project is always welcomed. 
 
 Please follow the issue template guideline before commiting and new pull requests
 
