@@ -1,6 +1,4 @@
-![LiteReport logo](/img/litereport-icon.png)
-
-# LiteReport:
+![LiteReport logo](/img/litereport-logo.png)
 
 Lighthouse reports for localhost ports. Currently working on final tests for app
 
