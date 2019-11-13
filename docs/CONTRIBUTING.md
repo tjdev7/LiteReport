@@ -1,7 +1,7 @@
 
 # Contributing:
 
-Pull requests and creating new issues for the project is always welcomed. 
+Pull requests and new issues being raised over bugs inside this project is always welcomed. 
 
 Please follow the issue template guideline before commiting and new pull requests
 
@@ -14,10 +14,10 @@ Please follow the issue template guideline before commiting and new pull request
 2. Make a new branch with the new PR following these naming conventions:
 
 '''
-issue/##/name-of-issue-or-PR
+Litereport/##/name-of-issue-or-PR
 '''
 
-* Whereas '''##''' would be the issue number
+* Whereas '''##''' would be the issue number or number of recent Pull requests
 
 3. Run tests to ensure that nothing has broken with the new upcoming PR
 
