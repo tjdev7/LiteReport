@@ -1,6 +1,6 @@
 ![LiteReport logo](/img/litereport-logo.png)
 
-Lighthouse reports for localhost ports. Currently working on final tests for app
+Lighthouse reports for localhost ports. Currently in pre-release. Not final product
 
 ## Features:
 
@@ -15,7 +15,6 @@ Lighthouse reports for localhost ports. Currently working on final tests for app
 - JSON
 - CSV
 - Inline Terminal text
-- Pop up page which shows you test results
 
 #### Tools used
 
@@ -24,7 +23,11 @@ Lighthouse reports for localhost ports. Currently working on final tests for app
 
 ##### Current objectives
 
-- [x] Add a landing page for project
 - [ ] Have Litereport scan for the active localhost port by itself
 - [ ] Add pdf output inside the reports
-- [ ] Finish adding React to the project
+
+### List of current contributor(s)
+
+![User tmoran18](img/tmoran18.png) 
+[@tmoran18](https://github.com/tmoran18) - Helped create the current logo
+
