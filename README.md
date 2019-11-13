@@ -1,6 +1,4 @@
-![LiteReport logo](/img/litereport-icon.png)
-
-# LiteReport:
+![LiteReport logo](/img/litereport-logo.png)
 
 Lighthouse reports for localhost ports. Currently in pre-release. Not final product
 
@@ -32,3 +30,4 @@ Lighthouse reports for localhost ports. Currently in pre-release. Not final prod
 
 ![User tmoran18](img/tmoran18.png) 
 [@tmoran18](https://github.com/tmoran18) - Helped create the current logo
+

@@ -11,6 +11,8 @@
 * New documentation
 * Bug fix (Major, Medium, Minor)
 
-Fix for Litereport/##/PR
+Fix/Pull request for Litereport/##/title_of_change
 
+<!--
 '##' = Number of recent Pull Request, if applicable
+-->
