@@ -1,8 +1,12 @@
 {
   "name": "litereport",
-  "version": "0.1.0",
+  "version": "2.0.0",
+  "description": "Automatic Lighthouse reports in localhost projects",
   "private": true,
+  "homepage": "https://github.com/Toughee/Litereport#readme",
   "dependencies": {
+    "lighthouse": "^5.6.0",
+    "lighthouse-ci": "^1.10.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0"
@@ -11,10 +15,29 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "litereport": "lighthouse http://localhost:3000/ --output json --output csv --output html --output-path litereports/results.html --view | lighthouse-ci http://localhost:3000/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toughee/Litereport.git"
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "keywords": [
+    "Lighthouse",
+    "tests",
+    "unit",
+    "website",
+    "analytics",
+    "PWA",
+    "Progressive enhancement"
+  ],
+  "author": "Mario Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toughee/Litereport/issues"
   },
   "browserslist": {
     "production": [
