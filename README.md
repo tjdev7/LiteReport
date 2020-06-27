@@ -28,6 +28,5 @@ Lighthouse reports for localhost ports. Currently in pre-release. Not final prod
 
 ### List of current contributor(s)
 
-![User tmoran18](img/tmoran18.png) 
-[@tmoran18](https://github.com/tmoran18) - Helped create the current logo
+- [@tmoran18](https://github.com/tmoran18) - Helped create the current logo
 
