@@ -33,7 +33,7 @@
     "handlebars": "^4.7.6",
     "kind-of": "^6.0.3",
     "lighthouse": "^6.0.0",
-    "lighthouse-ci": "^1.10.0",
+    "lighthouse-ci": "^1.10.4",
     "minimist": "^1.2.5",
     "node": "^12.11.1",
     "nodemon": "^2.0.4",
