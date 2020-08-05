@@ -1,8 +1,9 @@
-## PR description
+# List of changes
 
-- [ ] Recent PR does not interfere with app functionality
-- [ ] Recent PR does not fail any tests
 
+
+
+------------------------------------------------------
 
 ## Type of PR
 
@@ -11,8 +12,17 @@
 * New documentation
 * Bug fix (Major, Medium, Minor)
 
-Fix/Pull request for Litereport/##/title_of_change
+------------------------------------------------------
+
+## PR description
+
+- [] Recent PR does not interfere with app functionality
+- [] Recent PR does not fail any tests
+
+------------------------------------------------------
 
 <!--
+Fix/Pull request for Litereport/##/title_of_change
+
 '##' = Number of recent Pull Request, if applicable
 -->

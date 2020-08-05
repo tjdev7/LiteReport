@@ -1,9 +1,10 @@
-
 # Contributing:
 
 Pull requests and new issues being raised over bugs inside this project is always welcomed. 
 
 Please follow the issue template guideline before commiting and new pull requests
+
+--------------------------------------------------------------------
 
 ## Guidelines:
 
