@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/Toughee/Litereport#readme",
   "dependencies": {
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "kind-of": "^6.0.3",
     "lighthouse": "^6.0.0",
     "lighthouse-ci": "^1.10.4",
