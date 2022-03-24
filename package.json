@@ -34,7 +34,7 @@
     "kind-of": "^6.0.3",
     "lighthouse": "^6.0.0",
     "lighthouse-ci": "^1.10.4",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "node": "^12.11.1",
     "nodemon": "^2.0.4",
     "prop-types": "^15.7.2",
